@@ -4,14 +4,15 @@
 ```
 <repositories>
     <repository>
-        <id>sqber-util-repo</id>
-        <url>https://raw.githubusercontent.com/xu-ben/MyJavaUtils/master/repository</url>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
     </repository>
 </repositories>
 
 <dependency>
-    <groupId>com.sqber</groupId>
-    <artifactId>sqber-util</artifactId>
+	<groupId>com.github.shenqiangbin</groupId>
+	<artifactId>sqber-util</artifactId>
+	<version>v0.1.0</version>
 </dependency>
 ```
 
