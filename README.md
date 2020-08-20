@@ -1,6 +1,4 @@
-可以发布到：https://jitpack.io/
-
-
+## 使用
 ```
 <repositories>
     <repository>
@@ -15,7 +13,14 @@
 </dependency>
 ```
 
-gitignore 要忽略的文件有
+>项目发布到了 https://jitpack.io/ 
+
+## 生成
+
+项目修改之后，运行 mvn deploy 则会在 repository 目录下生成新的部署
+
+
+gitignore 要忽略的文件
 ```
 target/
 
