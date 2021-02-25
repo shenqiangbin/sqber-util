@@ -14,7 +14,7 @@
 </dependency>
 ```
 
->项目发布到了 https://jitpack.io/ 
+>可以在 https://jitpack.io/ 中查看其他引用方式 
 
 ## 生成
 
